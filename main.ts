@@ -1,6 +1,6 @@
 #! /usr/bin/env node
 
-import inquirer from "inquirer"
+import inquirer from "inquirer";
 const currency: any = {
   USD: 1,
   EUR: 0.92,
